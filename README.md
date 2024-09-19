@@ -1,6 +1,5 @@
-![image](https://github.com/user-attachments/assets/93a60940-16da-46af-8d7c-af19e80b4ee1)
-
-![image](https://github.com/user-attachments/assets/31b9d2b7-786b-4fa2-b1df-0f9f041d9e7f)
+![image](https://github.com/user-attachments/assets/7ada2d25-e4e5-491b-81d5-4c44b77058cc)
+![image](https://github.com/user-attachments/assets/b023feda-5b98-4d2c-adef-5bea00cddd1d)
 
 # Getting Started with Create React App
 
